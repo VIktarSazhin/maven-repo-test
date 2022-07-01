@@ -73,7 +73,7 @@
                     <includes>
                         <include>**/*</include>
                     </includes>
-                    <repositoryName>test-service</repositoryName>      <!-- github repo name -->
+                    <repositoryName>maven-test-repo</repositoryName>      <!-- github repo name -->
                     <repositoryOwner>VIktarSazhin</repositoryOwner>    <!-- github username  -->
                 </configuration>
                 <executions>
